@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Online Library Test\bin\Debug\Online Library Test.exe.config
+C:\Users\Admin\Documents\Online Library Test\bin\Debug\Online Library Test.exe
+C:\Users\Admin\Documents\Online Library Test\bin\Debug\Online Library Test.pdb
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online Library Test.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online Library Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.Properties.Resources.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online Library Test.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online Library Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online Library Test.exe
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online Library Test.pdb
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.CustomerManagement.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.Author.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.BookCategory.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.BookView.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.BorrowForm.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.Category.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.AdminMenu.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.BookAuthor.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.Books.resources
+C:\Users\Admin\Documents\Online Library Test\obj\Debug\Online_Library_Test.Login.resources
